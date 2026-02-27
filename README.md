@@ -1,3 +1,6 @@
+# NAME: RAMA P
+# REG NO: 212224060207
+# Pulse-Code-Modulation and Delta-Code-Modulation
 # Pulse-Code-Modulation
 # Aim
 Write a simple Python program for the modulation and demodulation of PCM, and DM.
@@ -105,15 +108,14 @@ plt.show()
 ```
 # Output Waveform
 # PCM
-```
+
 <img width="976" height="887" alt="image" src="https://github.com/user-attachments/assets/e015692a-81bc-49e9-92cc-9d447bf66d82" />
 
-```
-#DPCM
-```
+# DPCM
+
 <img width="989" height="789" alt="image" src="https://github.com/user-attachments/assets/2ebcb0ad-3a07-42e7-8fcc-633dafab0848" />
 
 
-```
+
 # Results
 The analog signal was successfully encoded and reconstructed using PCM and DM techniques in Python, verifying their working principles.
